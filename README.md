@@ -1,2 +1,5 @@
-# Asdan_API
-This program allows a user to search a remote data store via an API: asdan-computing.org.uk. This meticuosly-crafted code works in Python using an eclectic range on libraries.
+#ASDAN API
+
+This project involves the development of a Python-based application that enables users to access and query a remote data store through an Application Programming Interface (API) provided by asdan-computing.org.uk. By entering a course ID, the program constructs and sends a structured HTTP request, retrieves the response in JSON format, and extracts key details such as the course title, description, administrative information, and course duration. This task demonstrates the practical application of programming concepts to interact with real-world data systems while reinforcing an understanding of how APIs facilitate communication between software applications.
+
+The program was designed with clarity and reliability in mind, incorporating checks to ensure that data is only processed when a valid response is received. Through this activity, I enhanced my ability to interpret technical documentation, manage external data sources, and handle user input effectively. Overall, the project strengthened my computational thinking skills and improved my confidence in developing functional, real-world software solutions using Python.
